@@ -23,3 +23,35 @@ footer {
     padding: 1rem;
     text-align: center;
 }
+
+
+@media screen and (max-width: 1321px) {
+    ul {
+        flex-direction: column;
+    }
+
+    ul li {
+        margin-bottom: 1rem;
+    }
+
+}
+
+@media screen and (min-width: 600px) { 
+    header {
+      display: flex;
+      justify-content: space-between;
+  
+    }
+}
+  
+  @media screen and (max-width: 600px) { 
+    header {
+      display: flex;
+      flex-direction: column;
+  
+    }
+    
+    ul {
+      flex-direction: column;
+    }
+}
