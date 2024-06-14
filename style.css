@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 header{
@@ -9,4 +10,10 @@ header{
     align-items: center;
     justify-content: space-between;
     padding: 10px;
+}
+
+section{
+    display: flex;
+    align-items: center;
+
 }
