@@ -24,3 +24,16 @@ footer {
     text-align: center;
 }
 
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+ul li {
+    margin-right: 1rem;
+}
+
+ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}   
