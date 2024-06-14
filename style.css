@@ -15,5 +15,11 @@ header{
 
 section{
     padding: 1rem;
+}
 
+footer {
+    background-color: lightblue;
+    color: rgb(0, 0, 0);
+    padding: 1rem;
+    text-align: center;
 }
