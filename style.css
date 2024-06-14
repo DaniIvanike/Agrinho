@@ -6,10 +6,11 @@
 
 header{
     background-color: lightblue;
-    display: flex;
-    align-items: center;
+    color: white;
+    padding: 1rem;
+    text-align: center;
     justify-content: space-between;
-    padding: 10px;
+    display: flex;
 }
 
 section{
