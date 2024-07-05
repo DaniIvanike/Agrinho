@@ -60,3 +60,7 @@ nav{
     display: flex;
     flex-direction: column;
 }
+
+.hero{
+    background: #ACD2D6;
+}
