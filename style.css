@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Teko:wght@300..700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -7,5 +9,25 @@
 body{
     background:#ACD2D6 ;
     color:#000000 ;
+
+}
+
+html{
+    font-family: Inter;
+    font-weight: 500;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+nav{
+   max-width: 1120px;
+   margin: auto;
+   padding: 1.5rem 10rem;
 
 }
