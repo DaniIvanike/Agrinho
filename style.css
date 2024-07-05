@@ -43,3 +43,9 @@ nav{
     font-weight: 600;
     text-transform: uppercase;
 }
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+}
