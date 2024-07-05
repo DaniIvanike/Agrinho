@@ -50,3 +50,8 @@ nav{
     gap: 1.5rem;
     color: #000000;
 }
+
+.CEP{
+    color: #000000;
+    font-weight: 600;
+}
