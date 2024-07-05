@@ -55,3 +55,8 @@ nav{
     color: #000000;
     font-weight: 600;
 }
+
+.main{
+    display: flex;
+    flex-direction: column;
+}
