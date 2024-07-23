@@ -63,4 +63,10 @@ nav{
 
 .hero{
     background: #ACD2D6;
+    max-width: 1120px;
+    height: 60vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
