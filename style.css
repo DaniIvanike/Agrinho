@@ -80,7 +80,7 @@ nav{
 
 .hero-imagens-container{
     max-width: 45%;
-    column-count: 5;
+    column-count: 4;
 }
 
 .hero-imagens-container > figure > img{
