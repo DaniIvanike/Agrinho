@@ -129,10 +129,9 @@ nav{
 
 } 
 
-.botao-container {
-    width: 100;
+.objetivos {
+    display: flex;
+    flex-direction: column;
     max-width: 1120px;
-    padding: 1rem;
-    margin: auto;
-    transform: translate("0, -50%");
+    padding: 3rem 2rem;
 }
