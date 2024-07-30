@@ -189,17 +189,13 @@ nav{
     font-weight: 400;
 }
 
-.footer {
+.footer-autor {
     padding: 4rem;
     display: flex;
     flex-direction: column;
     align-items: center;
     background: #c8e6e9;
+    color: #000000;
 }
 
-.footer-autor {
-    color: #000000;
-    font-family: Inter;
-    font-size: 1rem;
-    font-weight: 500;
-}
+
