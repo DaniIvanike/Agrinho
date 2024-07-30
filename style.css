@@ -173,6 +173,7 @@ nav{
     flex-direction: column;
     gap: 2rem;
     flex-basis: 29rem;
+    margin-top: 2rem;
 } 
 
 .objetivos-titulo {
