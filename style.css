@@ -136,3 +136,9 @@ nav{
     padding: 3rem 2rem;
     margin: auto;
 }
+
+.objetivos-cabeçalho {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
