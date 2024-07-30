@@ -145,7 +145,7 @@ nav{
 
 .objetivos-titulo {
     font-family: Montserrat;
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 700;
     color: #000000;
 }
@@ -153,7 +153,6 @@ nav{
 .objetivos-subtitulos {
     color: #000000;
     font-family: Inter;
-    font-size: 18px;
-    font-style: normal;
+    font-size: 1rem;
     font-weight: 400;
 }
