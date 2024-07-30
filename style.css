@@ -130,6 +130,7 @@ nav{
 } 
 
 .objetivos {
+    color: #29757d;
     display: flex;
     flex-direction: column;
     max-width: 1120px;
