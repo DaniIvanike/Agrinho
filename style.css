@@ -149,3 +149,11 @@ nav{
     font-weight: 700;
     color: #000000;
 }
+
+.objetivos-subtitulos {
+    color: #000000;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
