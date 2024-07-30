@@ -52,8 +52,8 @@ nav{
 }
 
 .CEP{
-    width: 200px;
-    height: 200px;
+    width: 50px;  /* Ajuste o tamanho conforme necessário */
+    height: auto;
 }
 
 .main{
