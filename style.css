@@ -175,3 +175,9 @@ nav{
     flex-basis: 29rem;
 } 
 
+.objetivos-titulo {
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
