@@ -76,6 +76,8 @@ nav{
 
     padding: 0rem 2rem;
     margin: auto;
+
+    overflow: clip;
 }
 
 .hero-conteudo{
