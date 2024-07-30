@@ -61,8 +61,11 @@ nav{
     flex-direction: column;
 }
 
-.hero{
+.principal {
     background: #ACD2D6;
+}
+
+.hero{
     max-width: 1120px;
     height: 60vh;
 
