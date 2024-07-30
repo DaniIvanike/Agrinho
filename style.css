@@ -103,6 +103,10 @@ nav{
     font-weight: 800;
 }
 
+.hr {
+    border-color: #000000;
+}
+
 .hero-imagens-container{
     max-width: 45%;
     column-count: 4;
