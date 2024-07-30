@@ -158,10 +158,9 @@ nav{
 }
 
 .objetivos-card-container {
-    padding: 0rem 10rem;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    padding: 0rem 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
 }
 
@@ -171,9 +170,7 @@ nav{
     border-radius: 0.5rem;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
-    flex-basis: 29rem;
-    margin-top: 2rem;
+    gap: 2re;
 } 
 
 .objetivos-titulo {
