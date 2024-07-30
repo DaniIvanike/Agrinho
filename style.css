@@ -107,6 +107,14 @@ nav{
     border-color: #000000;
 }
 
+.hero-subtitulo {
+    color: #000000;
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+}
+
 .hero-imagens-container{
     max-width: 45%;
     column-count: 4;
