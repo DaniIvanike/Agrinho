@@ -86,6 +86,11 @@ nav{
     gap: 1rem;
 }
 
+.destaque{
+    font-family: Epilogue;
+    font-size: 14px;
+}
+
 .hero-imagens-container{
     max-width: 45%;
     column-count: 4;
