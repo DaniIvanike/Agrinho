@@ -142,3 +142,10 @@ nav{
     flex-direction: column;
     gap: 1.5rem;
 }
+
+.objetivos-titulo {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 700;
+    color: #000000;
+}
