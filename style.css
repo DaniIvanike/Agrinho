@@ -128,3 +128,11 @@ nav{
     border-radius: 0.5rem;
 
 } 
+
+.botao-container {
+    width: 100;
+    max-width: 1120px;
+    padding: 1rem;
+    margin: auto;
+    transform: translate("0, -50%");
+}
