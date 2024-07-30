@@ -156,3 +156,11 @@ nav{
     font-size: 1rem;
     font-weight: 400;
 }
+
+.objetivos-card-container {
+    padding: 0rem 10rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
