@@ -54,7 +54,7 @@ nav{
 .CEP{
     width: 250px;
     height: 250px;
-    display: inline;
+    padding: 5%;
 }
 
 .main{
