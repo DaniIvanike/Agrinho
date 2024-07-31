@@ -238,20 +238,17 @@ nav{
     color: #000000;
 }
 
-@media screen and (max-width: 1120px) {
-    header {
+@media screen and (max-width: 700px) {
+    .hero-conteudo {
         display: flex;
         flex-direction: column;
     }
-    
+
     .menu ul {
         flex-direction: column;
     }
 
-    .conteudo {
-        padding: 10px;
-        margin:  10px;
-    }
+    
    
 }
 
