@@ -238,16 +238,5 @@ nav{
     color: #000000;
 }
 
-@media  and (max-width: 768px ) {
-    .container {
-        display: block;
-        background-image: none;
-    
-    }
-
-    .container_imagem {
-        width: 50vw;
-    }
-}
 
 
