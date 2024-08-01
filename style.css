@@ -238,5 +238,28 @@ nav{
     color: #000000;
 }
 
+@media (max-width: 480px) {
+    nav {
+        flex-direction: column;
+        padding: 1.5rem 1rem;
+    }
 
+    .hero {
+        padding: 0rem 1rem;
+    }
+
+    .hero-imagens-container {
+        column-count: 1;
+    }
+
+    .objetivos {
+        padding: 1rem;
+    }
+
+    .card-container {
+        padding: 0rem 1rem;
+        flex-direction: column;
+        align-items: center;
+    }
+}
 
