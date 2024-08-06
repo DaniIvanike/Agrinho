@@ -245,6 +245,7 @@ nav{
 
     .hero {
         padding: 0rem 1rem;
+        flex-direction: column;
     }
 
     .hero-imagens-container {
