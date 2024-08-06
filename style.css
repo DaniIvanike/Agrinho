@@ -248,10 +248,6 @@ nav{
         flex-direction: column;
     }
 
-    .hero-imagens-container {
-        column-count: 1;
-    }
-
     .objetivos {
         padding: 1rem;
         flex-direction: column;
